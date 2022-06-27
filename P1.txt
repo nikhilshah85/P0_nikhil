@@ -1,0 +1,18 @@
+Tyler Ward
+	will be presenting on monday as problrm with charger (had mailed bout it 2 days back)
+
+shane LeGrand- REST API 
+	shanesRestaurantAPP
+	CRUD  - YES
+	Search Yes
+	Serilog - yes
+	exception - yes
+	Normalization - 3NF
+	Furure plan - MVC app with authentaction and menu system
+			place multiple orders in single go (6/10)
+
+Rahmel - Restauran APP
+	exceptions not done
+	
+
+	
